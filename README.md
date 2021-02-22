@@ -2,23 +2,23 @@
 
 # Hi, I'm Rafael 👋🏽
 
-#### I'm a self-taught software developer and a renewable energies engineer from Baja California, México. I mainly focus on developing fullstack Web Apps, and I strive to create products that are responsive and accessible to all.
+### I'm a self-taught software developer and a renewable energies engineer from Baja California, México. I mainly focus on developing fullstack Web Apps, and I strive to create products that are responsive and accessible to all.
 
-#### ❓ Ask me about
+### ❓ Ask me about
 * HTML, CSS & JavaScript
 * React, Next.js, Node.js & Express.js
 * Python
 * C# & .NET
 
-#### 💬 Reach out
+### 💬 Reach out
 * <a href="https://twitter.com/RafaelAvls" target="_blank">Twitter</a>
 * <a href="https://dev.to/rafavls" target="_blank">Dev.to</a>
 * <a href="mailto: rafa.vfierro@outlook.com" >Email</a>
 
-#### 💻 Currently working on
+### 💻 Currently working on
 * Fullstack weather Web App
 
-#### 🌱 I’m currently learning
+### 🌱 I’m currently learning
 * Wen desogm átterms
 * Databases & APIs
 * Freelancing
