@@ -11,8 +11,8 @@
 * C# & .NET
 
 #### 💬 Reach out
-* [Twitter](https://twitter.com/RafaelAvls)
-* [Dev.to](https://dev.to/rafavls)
+* <a href="https://twitter.com/RafaelAvls" target="_blank">Twitter</a>
+* <a href="https://dev.to/rafavls" target="_blank">Dev.to</a>
 * <a href="mailto: rafa.vfierro@outlook.com" >Email</a>
 
 #### 💻 Currently working on
