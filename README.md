@@ -1,15 +1,19 @@
 <img src="https://raw.githubusercontent.com/rafaVls/rafaVls/main/panels.jpg" >
 
 # Hi, I'm Rafael 👋🏽
-![Twitter URL](https://img.shields.io/twitter/url?label=%40RafaelAvls&style=social&url=https%3A%2F%2Ftwitter.com%2FRafaelAvls) ![GitHub followers](https://img.shields.io/github/followers/rafaVls?label=Follow&style=social) [![Gmail Badge](https://img.shields.io/badge/-rafa.vfierro@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafa.vfierro@outlook.com)](mailto:rafa.vfierro@outlook.com)
 
 #### I'm a self-taught software developer and a renewable energies engineer from Baja California, México. I mainly focus on developing fullstack Web Apps, and I strive to create products that are responsive and accessible to all.
 
-#### 💬 Ask me about
+#### ❓ Ask me about
 * HTML, CSS & JavaScript
 * React, Next.js, Node.js & Express.js
 * Python
 * C# & .NET
+
+#### 💬 Reach out
+* [Twitter](https://twitter.com/RafaelAvls)
+* [Dev.to](https://dev.to/rafavls)
+* <a href="mailto: rafa.vfierro@outlook.com" >Email</a>
 
 #### 💻 Currently working on
 * Fullstack weather Web App
