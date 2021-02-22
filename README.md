@@ -19,7 +19,7 @@
 * Fullstack weather Web App
 
 ### 🌱 I’m currently learning
-* Wen desogm átterms
+* Web design patterns
 * Databases & APIs
 * Freelancing
 
