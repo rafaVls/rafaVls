@@ -16,7 +16,7 @@
 * <a href="mailto: rafa.vfierro@outlook.com" >Email</a>
 
 ### 💻 Currently working on
-* Fullstack weather Web App
+* Personal website with portfolio/blog integration.
 
 ### 🌱 I’m currently learning
 * Web design patterns
