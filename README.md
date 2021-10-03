@@ -16,11 +16,10 @@
 * <a href="mailto: rafa.vfierro@outlook.com" >Email</a>
 
 ### 💻 Currently working on
-* Personal website with portfolio/blog integration.
+* Typing game with database integration for high scores.
 
 ### 🌱 I’m currently learning
 * Web design patterns
-* Databases & APIs
-* Freelancing
+* Web3 and the blockchain
 
 I'm excited to contribute and share with the community. Don't hesitate to hit me up, cheers!
