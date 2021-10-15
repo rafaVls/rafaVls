@@ -11,6 +11,7 @@
 * C# & .NET
 
 ### 💬 Reach out
+* <a href="https://www.rafavls.dev/" target="_blank">My Portfolio/Blog</a>
 * <a href="https://twitter.com/RafaelAvls" target="_blank">Twitter</a>
 * <a href="https://dev.to/rafavls" target="_blank">Dev.to</a>
 * <a href="mailto: rafa.vfierro@outlook.com" >Email</a>
