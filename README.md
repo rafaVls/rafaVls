@@ -21,6 +21,5 @@
 
 ### 🌱 I’m currently learning
 * Web design patterns
-* Web3 and the blockchain
 
 I'm excited to contribute and share with the community. Don't hesitate to hit me up, cheers!
