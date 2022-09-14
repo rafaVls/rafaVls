@@ -17,9 +17,11 @@
 * <a href="mailto: rafa.vfierro@outlook.com" >Email</a>
 
 ### 💻 Currently working on
-* Typing game with database integration for high scores.
+* Video game-making with database integration
 
 ### 🌱 I’m currently learning
 * Web design patterns
+* The C programming language
+* Neovim
 
 I'm excited to contribute and share with the community. Don't hesitate to hit me up, cheers!
